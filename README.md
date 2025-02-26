@@ -19,7 +19,7 @@ we have taken.
 ## Taking the practice exam
 You can take this example exam by following these instructions:
 1. the CCAAK exam. 90 minutes - 60 questions - Around 70% pass rate required.
-2. Make a copy of this [Google document](https://docs.google.com/document/d/1ObWuzYwI2qZO5dO8zyWfJW_n6WE2o_v1zSY7RVQM68M/edit?tab=t.0), by going to file > make a copy.
+2. Make a copy of this <a href="https://docs.google.com/document/d/1ObWuzYwI2qZO5dO8zyWfJW_n6WE2o_v1zSY7RVQM68M/edit?tab=t.0" target="_blank">Google Document</a>, by going to file > make a copy.
 3. Set a timer for 90 minutes and start at question 1, you may only SELECT ONE
 correct answer, unless the question specifies.
 4. Once you have completed all questions, check your answers with section 4.
