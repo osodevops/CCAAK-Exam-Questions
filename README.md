@@ -7,13 +7,13 @@ we have taken.
 ---
 
 ## Table of Contents
-- [Event-Driven Architecture and Apache Kafka](./Architecture/README.md)
-- [Broker](./Broker/README.md)
-- [Consumer](./Consumer/README.md)
-- [Producer](./Producer/README.md)
-- [Kafka Security](./Security/README.md)
-- [Monitoring and alerting](./Monitoring/README.md)
-- [Introduction to Kafka Connect](./Kafka%20Connect/README.md)
+- [Event-Driven Architecture and Apache Kafka](./Architecture/questions.md)
+- [Broker](./Broker/questions.md)
+- [Consumer](./Consumer/questions.md)
+- [Producer](./Producer/questions.md)
+- [Kafka Security](./Security/questions.md)
+- [Monitoring and alerting](./Monitoring/questions.md)
+- [Introduction to Kafka Connect](./Kafka%20Connect/questions.md)
  
 
 ## Taking the practice exam
