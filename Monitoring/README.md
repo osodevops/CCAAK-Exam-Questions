@@ -1,4 +1,4 @@
-## Monitoring and Alerting
+# Monitoring and Alerting
 
 Apache Kafka monitoring is essential for maintaining the health, performance, and reliability of your data streaming infrastructure. Effective monitoring helps with performance optimization, issue detection, fault tolerance, capacity planning, and security compliance.
 
